@@ -14,6 +14,9 @@ The goal is to identify high-value products, detect out-of-stock issues, analyze
 - Power BI
 - GitHub
 
+##  Power BI Dashboard
+
+![Supply Chain Inventory Dashboard](06_Screenshots/PowerBI_Dashboard.png)
 ##  Dataset
 
 The project uses the Retail Store Inventory and Demand Forecasting dataset.
